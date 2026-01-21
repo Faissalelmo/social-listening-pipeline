@@ -24,7 +24,7 @@
 - 📦 **Fully containerized** with Docker + Kubernetes deployment
 
 <p align="center">
-  <img src="images/pipeline_overview.png" alt="Pipeline Overview" width="700"/>
+  <img src="pipeline_overview.png" alt="Pipeline Overview" width="700"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@ Modern content analysis systems require **structured, enriched data** from dispa
 ## 🚀 Methodology & Architecture
 
 <p align="center">
-  <img src="images/architecture_diagram.png" alt="System Architecture" width="900"/>
+  <img src="architecture_diagram.png" alt="System Architecture" width="900"/>
 </p>
 
 ### Architecture & Design Philosophy
