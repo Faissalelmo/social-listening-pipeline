@@ -1085,7 +1085,7 @@ Brand Matching:
 
 ## 👤 Author
 
-**Adnane [Your Last Name]**
+**Faissal Elmokaddem **
 
 ### Expertise
 - 🔀 **ETL Engineering** : Pipeline design, data orchestration
@@ -1216,7 +1216,7 @@ python src/pipeline/step6_push_to_api.py
 
 ### 🚀 "Automate Your Data Enrichment Pipeline"
 
-**SM_POSTS v1.0** • Built with ❤️ by Adnane
+**SM_POSTS v1.0** • Built with ❤️ by Faissal Elmokaddem
 
 ⭐ If you found this project useful, please consider giving it a star on GitHub!
 
@@ -1243,5 +1243,5 @@ python src/pipeline/step6_push_to_api.py
 
 **Last Updated**: January 2026  
 **Status**: ✅ Production Ready  
-**Maintained By**: Adnane
+**Maintained By**: Faissal Elmokaddem
 
