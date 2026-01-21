@@ -1,4 +1,4 @@
-# 📊 SM_POSTS: SQL-to-NoSQL ETL Pipeline with Multi-Dimensional Data Enrichment
+# 📊 SQL-to-NoSQL ETL Pipeline with Multi-Dimensional Data Enrichment
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=flat-square&logo=python)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
