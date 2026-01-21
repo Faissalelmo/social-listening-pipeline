@@ -1105,8 +1105,8 @@ Brand Matching:
 
 ### Social Networks
 - 📧 **Email**: faissalelmokaddem@gmail.com
-- 🔗 **LinkedIn**: [https://www.linkedin.com/in/faissal-elmokaddem/]
-- 🌐 **Portfolio**: [https://faissal-s-portfolio.vercel.app/]
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/faissal-elmokaddem/
+- 🌐 **Portfolio**: https://faissal-s-portfolio.vercel.app/
 
 ---
 
