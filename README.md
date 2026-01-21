@@ -1104,10 +1104,9 @@ Brand Matching:
 - Production-grade code quality
 
 ### Social Networks
-- 📧 **Email**: your.email@example.com
-- 🔗 **LinkedIn**: [your-linkedin-profile](https://linkedin.com)
-- 💻 **GitHub**: [@yourusername](https://github.com/yourusername)
-- 🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
+- 📧 **Email**: faissalelmokaddem@gmail.com
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/faissal-elmokaddem/]
+- 🌐 **Portfolio**: [https://faissal-s-portfolio.vercel.app/]
 
 ---
 
